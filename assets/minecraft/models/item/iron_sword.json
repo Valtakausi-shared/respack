@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/iron_sword"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1}, "model": "cmd/miekat/sapeli"},
+    { "predicate": { "custom_model_data": 2}, "model": "cmd/miekat/puukko"},
+    { "predicate": { "custom_model_data": 3}, "model": "cmd/miekat/pitkamiekka"},
+    { "predicate": { "custom_model_data": 4}, "model": "cmd/miekat/rapiiri"},
+    { "predicate": { "custom_model_data": 5}, "model": "cmd/miekat/katana"},
+    { "predicate": { "custom_model_data": 6}, "model": "cmd/miekat/viidakkoveitsi"},
+    { "predicate": { "custom_model_data": 7}, "model": "cmd/miekat/gladius"},
+    { "predicate": { "custom_model_data": 8}, "model": "cmd/miekat/glaive"}
+  ]
+}

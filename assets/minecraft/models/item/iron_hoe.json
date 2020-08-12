@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/iron_hoe"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1}, "model": "cmd/kuluvat/sirppi"},
+    { "predicate": { "custom_model_data": 2}, "model": "cmd/kuluvat/viitake"},
+    { "predicate": { "custom_model_data": 3}, "model": "cmd/kuluvat/ruoska"},
+    { "predicate": { "custom_model_data": 4}, "model": "cmd/kuluvat/paimensauva"},
+    { "predicate": { "custom_model_data": 5}, "model": "cmd/kuluvat/saha"},
+    { "predicate": { "custom_model_data": 6}, "model": "cmd/kuluvat/sotakirves"},
+    { "predicate": { "custom_model_data": 7}, "model": "cmd/kuluvat/keihas"}
+  ]
+}

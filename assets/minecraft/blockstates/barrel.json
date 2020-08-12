@@ -1,0 +1,46 @@
+{
+  "variants": {
+    "facing=down,open=false": {
+      "model": "minecraft:block/bookshelf"
+    },
+    "facing=down,open=true": {
+      "model": "minecraft:block/bookshelf"
+    },
+    "facing=east,open=false": {
+      "model": "block/dresser"
+    },
+    "facing=east,open=true": {
+      "model": "block/dresser_open"
+    },
+    "facing=north,open=false": {
+      "y" : 270,
+      "model": "block/dresser"
+    },
+    "facing=north,open=true": {
+      "y" : 270,
+      "model": "block/dresser_open"
+    },
+    "facing=south,open=false": {
+      "y" : 90,
+      "model": "block/dresser"
+    },
+    "facing=south,open=true": {
+      "y" : 90,
+      "model": "block/dresser_open"
+    },
+    "facing=up,open=false": {
+      "model": "minecraft:block/barrel"
+    },
+    "facing=up,open=true": {
+      "model": "minecraft:block/barrel_open"
+    },
+    "facing=west,open=false": {
+      "y" : 180,
+      "model": "block/dresser"
+    },
+    "facing=west,open=true": {
+      "y" : 180,
+      "model": "block/dresser_open"
+    }
+  }
+}

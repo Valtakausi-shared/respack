@@ -1,0 +1,99 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "entity/steve",
+		"3_1": "entity/steve"
+	},
+	"elements": [
+		{
+			"name": "Cube",
+			"from": [6, 1, 4],
+			"to": [10, 3, 10],
+			"faces": {
+				"north": {"uv": [5, 4, 7, 5], "rotation": 180, "texture": "#3_1"},
+				"east": {"uv": [7, 5, 8, 8], "rotation": 90, "texture": "#3_1"},
+				"south": {"uv": [7, 4, 9, 5], "texture": "#3_1"},
+				"west": {"uv": [4, 5, 5, 8], "rotation": 270, "texture": "#3_1"},
+				"up": {"uv": [5, 5, 7, 8], "texture": "#3_1"},
+				"down": {"uv": [8, 5, 10, 8], "rotation": 180, "texture": "#3_1"}
+			}
+		},
+		{
+			"name": "Cube",
+			"from": [6, 1, 10],
+			"to": [8, 3, 16],
+			"faces": {
+				"north": {"uv": [1, 4, 2, 5], "texture": "#3_1"},
+				"east": {"uv": [2, 5, 3, 8], "rotation": 90, "texture": "#3_1"},
+				"south": {"uv": [2, 4, 3, 5], "texture": "#3_1"},
+				"west": {"uv": [0, 5, 1, 8], "rotation": 270, "texture": "#3_1"},
+				"up": {"uv": [1, 5, 2, 8], "texture": "#3_1"},
+				"down": {"uv": [3, 5, 4, 8], "rotation": 180, "texture": "#3_1"}
+			}
+		},
+		{
+			"name": "Cube",
+			"from": [8, 1, 10],
+			"to": [10, 3, 16],
+			"faces": {
+				"north": {"uv": [5, 12, 6, 13], "texture": "#3_1"},
+				"east": {"uv": [6, 13, 7, 16], "rotation": 90, "texture": "#3_1"},
+				"south": {"uv": [7, 12, 6, 13], "texture": "#3_1"},
+				"west": {"uv": [4, 13, 5, 16], "rotation": 270, "texture": "#3_1"},
+				"up": {"uv": [5, 13, 6, 16], "texture": "#3_1"},
+				"down": {"uv": [7, 13, 8, 16], "rotation": 180, "texture": "#3_1"}
+			}
+		},
+		{
+			"name": "Cube",
+			"from": [4, 1, 4],
+			"to": [6, 3, 10],
+			"faces": {
+				"north": {"uv": [11, 4, 12, 5], "rotation": 180, "texture": "#3_1"},
+				"east": {"uv": [12, 5, 13, 8], "rotation": 90, "texture": "#3_1"},
+				"south": {"uv": [13, 4, 12, 5], "texture": "#3_1"},
+				"west": {"uv": [10, 5, 11, 8], "rotation": 270, "texture": "#3_1"},
+				"up": {"uv": [11, 5, 12, 8], "texture": "#3_1"},
+				"down": {"uv": [13, 5, 14, 8], "rotation": 180, "texture": "#3_1"}
+			}
+		},
+		{
+			"name": "Cube",
+			"from": [10, 1, 4],
+			"to": [12, 3, 10],
+			"faces": {
+				"north": {"uv": [9, 12, 10, 13], "rotation": 180, "texture": "#3_1"},
+				"east": {"uv": [10, 13, 11, 16], "rotation": 90, "texture": "#3_1"},
+				"south": {"uv": [11, 12, 10, 13], "texture": "#3_1"},
+				"west": {"uv": [8, 13, 9, 16], "rotation": 270, "texture": "#3_1"},
+				"up": {"uv": [9, 13, 10, 16], "texture": "#3_1"},
+				"down": {"uv": [11, 13, 12, 16], "rotation": 180, "texture": "#3_1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, -180, 0],
+			"translation": [-6, 6.25, 23.5],
+			"scale": [2, 2, 2]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 16, 6],
+			"scale": [4, 4, 4]
+		}
+	},
+	"groups": [
+		{
+			"name": "corpse",
+			"origin": [8, 8, 8],
+			"children": [
+				{
+					"name": "ruumis",
+					"origin": [8, 8, 8],
+					"children": [0, 1, 2, 3, 4]
+				}
+			]
+		}
+	]
+}

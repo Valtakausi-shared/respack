@@ -1,0 +1,24 @@
+{
+	"parent": "item/handheld",
+	"textures" : {
+		"layer0": "cmd/kuluvat/saha"
+	},    
+	"display": {
+        "thirdperson_righthand": {
+            "rotation": [ 0, -90, -45 ],
+            "translation": [ 0, 5.5, 2 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 0, 90, 45 ],
+            "translation": [ 0, 5.5, 2 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, -90, 0 ],
+            "translation": [ 1.13, 1.2, -7 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 90, 0 ],
+            "translation": [ 1.13, 1.2, -7 ]
+        }
+    }
+}

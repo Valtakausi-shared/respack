@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated.vanilla",
+  "textures": {
+    "layer0": "item/firework_rocket"
+  }
+}

@@ -1,0 +1,105 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "block/gold_block",
+		"2": "block/light_blue_concrete_powder",
+		"3": "block/brown_terracotta",
+		"particle": "block/gold_block"
+	},
+	"elements": [
+		{
+			"from": [3, 8, 3],
+			"to": [13, 9, 13],
+			"faces": {
+				"north": {"uv": [0, 0, 10, 1], "texture": "#1"},
+				"east": {"uv": [0, 0, 10, 1], "texture": "#1"},
+				"south": {"uv": [0, 0, 10, 1], "texture": "#1"},
+				"west": {"uv": [0, 0, 10, 1], "texture": "#1"},
+				"up": {"uv": [0, 0, 10, 10], "texture": "#1"},
+				"down": {"uv": [0, 0, 10, 10], "texture": "#1"}
+			}
+		},
+		{
+			"from": [4, 9, 4],
+			"to": [12, 19, 12],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 10], "texture": "#1"},
+				"east": {"uv": [0, 0, 8, 10], "texture": "#1"},
+				"south": {"uv": [0, 0, 8, 10], "texture": "#1"},
+				"west": {"uv": [0, 0, 8, 10], "texture": "#1"},
+				"up": {"uv": [0, 0, 8, 8], "texture": "#1"},
+				"down": {"uv": [0, 0, 8, 8], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "nauha",
+			"from": [3.8, 9, 3.8],
+			"to": [12.2, 11, 12.2],
+			"faces": {
+				"north": {"uv": [0, 0, 8.4, 2], "texture": "#3"},
+				"east": {"uv": [0, 0, 8.4, 2], "texture": "#3"},
+				"south": {"uv": [0, 0, 8.4, 2], "texture": "#3"},
+				"west": {"uv": [0, 0, 8.4, 2], "texture": "#3"},
+				"up": {"uv": [0, 0, 8.4, 8.4], "texture": "#3"},
+				"down": {"uv": [0, 0, 8.4, 8.4], "texture": "#3"}
+			}
+		},
+		{
+			"from": [3.4, 9, 7],
+			"to": [4.4, 11.1, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 1, 2.1], "texture": "#1"},
+				"east": {"uv": [0, 0, 2, 2.1], "texture": "#1"},
+				"south": {"uv": [0, 0, 1, 2.1], "texture": "#1"},
+				"west": {"uv": [0, 0, 2, 2.1], "texture": "#1"},
+				"up": {"uv": [0, 0, 1, 2], "texture": "#1"},
+				"down": {"uv": [0, 0, 1, 2], "texture": "#1"}
+			}
+		},
+		{
+			"from": [5, 9, 3],
+			"to": [7.5, 11.5, 4],
+			"faces": {
+				"north": {"uv": [0, 6, 1.5, 7.5], "texture": "#2"},
+				"east": {"uv": [0, 0, 1, 2.5], "texture": "#1"},
+				"south": {"uv": [0, 0, 2.5, 2.5], "texture": "#2"},
+				"west": {"uv": [0, 0, 1, 2.5], "texture": "#1"},
+				"up": {"uv": [0, 0, 2.5, 1], "texture": "#1"},
+				"down": {"uv": [0, 0, 2.5, 1], "texture": "#1"}
+			}
+		},
+		{
+			"from": [8.5, 9, 3],
+			"to": [11, 11.5, 4],
+			"faces": {
+				"north": {"uv": [4, 6, 5.5, 7.5], "texture": "#2"},
+				"east": {"uv": [0, 0, 1, 2.5], "texture": "#1"},
+				"south": {"uv": [0, 0, 2.5, 2.5], "texture": "#2"},
+				"west": {"uv": [0, 0, 1, 2.5], "texture": "#1"},
+				"up": {"uv": [0, 0, 2.5, 1], "texture": "#1"},
+				"down": {"uv": [0, 0, 2.5, 1], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"translation": [0, -2.75, 0]
+		},
+		"head": {
+			"translation": [0, 5.5, 0],
+			"scale": [1.65, 1.65, 1.65]
+		}
+	},
+	"groups": [0, 1,
+		{
+			"name": "nauha",
+			"origin": [8, 8, 8],
+			"children": [2, 3]
+		},
+		{
+			"name": "lasit",
+			"origin": [8, 8, 8],
+			"children": [4, 5]
+		}
+	]
+}

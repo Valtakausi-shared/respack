@@ -1,0 +1,26 @@
+{
+	"parent": "item/handheld",
+	"textures" : {
+		"layer0": "cmd/kuluvat/keihas"
+	},    
+	"display": {
+        "thirdperson_righthand": {
+            "rotation": [ 0, -90, 55 ],
+            "translation": [ 0, 6.0, 0.5 ],
+            "scale": [ 3.2, 3.2, 1 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 0, 90, -55 ],
+            "translation": [ 0, 6.0, 0.5 ],
+            "scale": [ 3.2, 3.2, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, -90, 50 ],
+            "translation": [ 1.13, 3.2, 1.13 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 90, -50 ],
+            "translation": [ 1.13, 3.2, 1.13 ]
+        }
+    }
+}
