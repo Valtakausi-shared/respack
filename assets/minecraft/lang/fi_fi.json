@@ -1,0 +1,63 @@
+{
+  "block.minecraft.diamond_ore": "Rikkimalmi",
+  "block.minecraft.diamond_block": "Rikkikuutio",
+  "item.minecraft.diamond": "Rikki",
+
+  "block.minecraft.dark_prismarine": "Hehkukivimalmi",
+
+  "item.minecraft.acacia_boat": "Pajuvene",
+  "block.minecraft.acacia_button": "Pajunappi",
+  "block.minecraft.acacia_door": "Pajuovi",
+  "block.minecraft.acacia_fence": "Paju-aita",
+  "block.minecraft.acacia_fence_gate": "Pajuportti",
+  "block.minecraft.acacia_leaves": "Pajunlehdet",
+  "block.minecraft.acacia_log": "Pajuhalko",
+  "block.minecraft.acacia_planks": "Pajulankut",
+  "block.minecraft.acacia_pressure_plate": "Pajupainelaatta",
+  "block.minecraft.acacia_sapling": "Pajun taimi",
+  "block.minecraft.acacia_sign": "Pajukyltti",
+  "block.minecraft.acacia_slab": "Pajulaatta",
+  "block.minecraft.acacia_stairs": "Pajuportaat",
+  "block.minecraft.acacia_trapdoor": "Pajuluukku",
+  "block.minecraft.acacia_wall_sign": "Paju sein\u00e4kyltti",
+  "block.minecraft.acacia_wood": "Pajupuu",
+  "block.minecraft.stripped_acacia_log": "Kuorittu pajuhalko",
+  "block.minecraft.stripped_acacia_wood": "Kuorittu paju",
+
+  "block.minecraft.chiseled_quartz_block": "Kaiverrettu marmorikuutio",
+  "block.minecraft.quartz_block": "Marmorikuutio",
+  "block.minecraft.quartz_bricks": "Marmoritiili",
+  "block.minecraft.quartz_pillar": "Marmoripilari",
+  "block.minecraft.quartz_slab": "Marmorilaatta",
+  "block.minecraft.quartz_stairs": "Marmoriportaat",
+  "block.minecraft.smooth_quartz": "Sile\u00e4 marmorikuutio",
+  "block.minecraft.smooth_quartz_slab": "Sile\u00e4 marmorilaatta",
+  "block.minecraft.smooth_quartz_stairs": "Sile\u00e4t marmoriportaat",
+
+  "item.minecraft.turtle_helmet": "Sukellusnaamari",
+  "item.minecraft.diamond_boots": "Kaavun saappaat",
+  "item.minecraft.diamond_chestplate": "Kaapu",
+  "item.minecraft.diamond_helmet": "Kaavun huppu",
+  "item.minecraft.diamond_leggings": "Kaavun housut",
+
+  "item.minecraft.beetroot": "Tupakka",
+  "item.minecraft.beetroot_seeds": "Tupakan siemenet",
+  "block.minecraft.beetroots": "Tupakka",
+  
+  "container.barrel": "S\u00e4ili\u00f6",
+
+  "block.minecraft.prismarine_slab": "Hiekkakivitiililaatta",
+  "block.minecraft.prismarine_stairs": "Hiekkakivitiiliportaat",
+  "block.minecraft.prismarine": "Hiekkakivitiili",
+  "block.minecraft.prismarine_wall": "Hiekkakivitiilimuuri",
+
+  "item.minecraft.quartz": "Kalium",
+  "block.minecraft.nether_quartz_ore": "Kaliummalmi",
+
+  "block.minecraft.crimson_door": "Mukulakivisalaovi",
+  "block.minecraft.crimson_trapdoor": "Mukulakiviluukku",
+  "block.minecraft.warped_door": "Kivitiilisalaovi",
+  "block.minecraft.warped_trapdoor": "Kivitiililuukku",
+
+  "block.minecraft.soul_torch": "Kynttil\u00e4"
+}

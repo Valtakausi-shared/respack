@@ -10,6 +10,9 @@
     { "predicate": { "custom_model_data": 4}, "model": "cmd/kuluvat/paimensauva"},
     { "predicate": { "custom_model_data": 5}, "model": "cmd/kuluvat/saha"},
     { "predicate": { "custom_model_data": 6}, "model": "cmd/kuluvat/sotakirves"},
-    { "predicate": { "custom_model_data": 7}, "model": "cmd/kuluvat/keihas"}
+    { "predicate": { "custom_model_data": 7}, "model": "cmd/kuluvat/keihas"},
+    { "predicate": { "custom_model_data": 8}, "model": "cmd/kuluvat/vasara"},
+    { "predicate": { "custom_model_data": 9}, "model": "cmd/kuluvat/pihdit"},
+    { "predicate": { "custom_model_data": 10}, "model": "cmd/kuluvat/tiirikka"}
   ]
 }
