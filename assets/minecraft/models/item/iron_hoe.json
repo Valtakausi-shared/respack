@@ -4,15 +4,15 @@
     "layer0": "minecraft:item/iron_hoe"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 1}, "model": "cmd/kuluvat/sirppi"},
-    { "predicate": { "custom_model_data": 2}, "model": "cmd/kuluvat/viitake"},
-    { "predicate": { "custom_model_data": 3}, "model": "cmd/kuluvat/ruoska"},
-    { "predicate": { "custom_model_data": 4}, "model": "cmd/kuluvat/paimensauva"},
-    { "predicate": { "custom_model_data": 5}, "model": "cmd/kuluvat/saha"},
-    { "predicate": { "custom_model_data": 6}, "model": "cmd/kuluvat/sotakirves"},
-    { "predicate": { "custom_model_data": 7}, "model": "cmd/kuluvat/keihas"},
-    { "predicate": { "custom_model_data": 8}, "model": "cmd/kuluvat/vasara"},
-    { "predicate": { "custom_model_data": 9}, "model": "cmd/kuluvat/pihdit"},
-    { "predicate": { "custom_model_data": 10}, "model": "cmd/kuluvat/tiirikka"}
+    { "predicate": { "custom_model_data": 1}, "model": "cmd/kuluvat/1_sirppi"},
+    { "predicate": { "custom_model_data": 2}, "model": "cmd/kuluvat/2_viitake"},
+    { "predicate": { "custom_model_data": 3}, "model": "cmd/kuluvat/3_ruoska"},
+    { "predicate": { "custom_model_data": 4}, "model": "cmd/kuluvat/4_paimensauva"},
+    { "predicate": { "custom_model_data": 5}, "model": "cmd/kuluvat/5_saha"},
+    { "predicate": { "custom_model_data": 6}, "model": "cmd/kuluvat/6_sotakirves"},
+    { "predicate": { "custom_model_data": 7}, "model": "cmd/kuluvat/7_keihas"},
+    { "predicate": { "custom_model_data": 8}, "model": "cmd/kuluvat/8_vasara"},
+    { "predicate": { "custom_model_data": 9}, "model": "cmd/kuluvat/9_pihdit"},
+    { "predicate": { "custom_model_data": 10}, "model": "cmd/kuluvat/10_tiirikka"}
   ]
 }

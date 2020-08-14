@@ -4,14 +4,14 @@
     "layer0": "minecraft:item/iron_sword"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 1}, "model": "cmd/miekat/sapeli"},
-    { "predicate": { "custom_model_data": 2}, "model": "cmd/miekat/puukko"},
-    { "predicate": { "custom_model_data": 3}, "model": "cmd/miekat/pitkamiekka"},
-    { "predicate": { "custom_model_data": 4}, "model": "cmd/miekat/rapiiri"},
-    { "predicate": { "custom_model_data": 5}, "model": "cmd/miekat/katana"},
-    { "predicate": { "custom_model_data": 6}, "model": "cmd/miekat/viidakkoveitsi"},
-    { "predicate": { "custom_model_data": 7}, "model": "cmd/miekat/gladius"},
-    { "predicate": { "custom_model_data": 8}, "model": "cmd/miekat/glaive"},
-    { "predicate": { "custom_model_data": 9}, "model": "cmd/miekat/palava_miekka"}
+    { "predicate": { "custom_model_data": 1}, "model": "cmd/miekat/1_sapeli"},
+    { "predicate": { "custom_model_data": 2}, "model": "cmd/miekat/2_puukko"},
+    { "predicate": { "custom_model_data": 3}, "model": "cmd/miekat/3_pitkamiekka"},
+    { "predicate": { "custom_model_data": 4}, "model": "cmd/miekat/4_rapiiri"},
+    { "predicate": { "custom_model_data": 5}, "model": "cmd/miekat/5_katana"},
+    { "predicate": { "custom_model_data": 6}, "model": "cmd/miekat/6_viidakkoveitsi"},
+    { "predicate": { "custom_model_data": 7}, "model": "cmd/miekat/7_gladius"},
+    { "predicate": { "custom_model_data": 8}, "model": "cmd/miekat/8_glaive"},
+    { "predicate": { "custom_model_data": 9}, "model": "cmd/miekat/9_palava_miekka"}
   ]
 }

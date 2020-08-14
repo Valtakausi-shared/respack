@@ -4,9 +4,9 @@
     "layer0": "minecraft:item/diamond_hoe"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 1}, "model": "cmd/hatut/kolmikolkka"},
-    { "predicate": { "custom_model_data": 2}, "model": "cmd/hatut/kultakruunu"},
-    { "predicate": { "custom_model_data": 3}, "model": "cmd/hatut/silinteri"},
-    { "predicate": { "custom_model_data": 4}, "model": "cmd/hatut/silinteri2"}
+    { "predicate": { "custom_model_data": 1}, "model": "cmd/hatut/1_kolmikolkka"},
+    { "predicate": { "custom_model_data": 2}, "model": "cmd/hatut/2_kultakruunu"},
+    { "predicate": { "custom_model_data": 3}, "model": "cmd/hatut/3_silinteri"},
+    { "predicate": { "custom_model_data": 4}, "model": "cmd/hatut/4_steampunk_silinteri"}
   ]
 }

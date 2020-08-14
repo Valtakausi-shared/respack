@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"parent": "block/block",
 	"textures": {
 		"particle": "entity/steve",
 		"3_1": "entity/steve"

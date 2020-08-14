@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"parent": "templates/hat",
 	"textures": {
 		"1": "block/black_concrete",
 		"2": "block/white_wool",
@@ -71,9 +71,6 @@
 		}
 	],
 	"display": {
-		"gui": {
-			"translation": [0, -2.75, 0]
-		},
 		"head": {
 			"translation": [0, 5.5, 0],
 			"scale": [1.65, 1.65, 1.65]

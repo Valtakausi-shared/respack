@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"parent": "templates/hat",
 	"textures": {
 		"1": "block/black_terracotta",
 		"3": "block/black_concrete",
@@ -861,22 +861,6 @@
 		}
 	],
 	"display": {
-		"thirdperson_righthand": {
-			"scale": [0.5, 0.5, 0.5]
-		},
-		"thirdperson_lefthand": {
-			"scale": [0.5, 0.5, 0.5]
-		},
-		"firstperson_righthand": {
-			"scale": [0.5, 0.5, 0.5]
-		},
-		"firstperson_lefthand": {
-			"scale": [0.5, 0.5, 0.5]
-		},
-		"gui": {
-			"rotation": [0, -180, 0],
-			"translation": [0, -2.75, 0]
-		},
 		"head": {
 			"translation": [0, 4.75, 0],
 			"scale": [1.82, 1.82, 1.82]
